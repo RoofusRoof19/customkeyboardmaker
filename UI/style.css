@@ -1,0 +1,93 @@
+nav {
+    background-color: #97C9C4;
+    padding-left: 5%;
+    padding-right: 1%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.navBuffer {
+    background-color: #3D5250;
+    padding-left: 5%;
+    padding-right: 1%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.button {
+    background-color: #8EBDB8;
+    border: #3D514F solid 2px;
+    color: #3D514F;
+    padding: 6px 18px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition-duration: 250ms;
+}
+
+.buttonselection {
+    background-color: #8EBDB8;
+    padding: 3px 18px;
+    color: #3D514F;
+    border: 0px;
+    cursor: pointer;
+    border: #6e928e solid 5px;
+}
+
+.buttonselection:hover {
+    background-color: #3D514F;
+    color: #8EBDB8;
+}
+
+.button:hover {
+    background-color: #3D514F;
+    color: #cadfdd
+}
+
+.buttonsubscribe {
+    background-color: red;
+    color: white;
+    border: 0px;
+    padding: 8px 20px;
+    text-align: center;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+div {
+    padding-left: 20%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 20%;
+    background-color: #dcf0ec;
+}
+
+.tablebuttonspacing {
+    width: 5px;
+    height: 1px;
+    background-color: #6e928e;
+}
+
+p {
+    border: 1px solid #7a7a7a;
+    background-color: #dddddd;
+    padding: 10px;
+}
+
+table {
+    background-color: #3D5250;
+    width: 100%;
+}
+
+tr {
+    background-color: #6e928e;
+    width: 100%;
+    color: #253130;
+}
+
+.tdtitle {
+    width: 12%;
+}
+
